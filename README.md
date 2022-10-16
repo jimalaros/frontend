@@ -1,4 +1,4 @@
-# Título del Proyecto
+# STORE
 
 _Este proyecto se basaba en dos partes, la primera consistía en generar una REST API, para esto se utilizo NodeJS - Express(por su gran facilidad para contruir APIs), Mysql (base de datos donde estaba alojada la información) y Heroku para el despliegue, se utilizaron consultas SQL y no el ORM para la manipulación de la BD, por problemas internos, la arquitectura de la API es una arquitectura por capas, es decir, cada parte de la API respondía por una cosa en particular, por ejemplo, los modelos eran los encargados de comunicarse con la base de datos, los controladores se comunicaban con los modelos pero no con la base de datos, y la segunda parte consistía en consumir la API desde el Frontend para visualizar ya no la información en un JSON sino los elementos, para esto se utilizo vanilla(como fue indicado)_
 
