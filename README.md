@@ -28,7 +28,7 @@ CTRL + SHIFT + i
 
 _En el link del Back encontrarás todos los productos y si escribes /id, se mostrará un solo producto, el correspondiente a su identificador (id)_
 
-[Backend](https://back-store-jimmy-arango.herokuapp.com/products/21)
+[id](https://back-store-jimmy-arango.herokuapp.com/products/21)
 
 _Si se digita un id que no existe, no se mostrará nada_
 
