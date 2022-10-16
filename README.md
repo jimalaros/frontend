@@ -6,7 +6,7 @@ _Este proyecto se basaba en dos partes, la primera consistía en generar una RES
 
 _Dirigirse al link denominado "Frontend" para visualizar la tienda y los respectivos productos, en caso de querer visualizar el back, dirigirse al link denominado "Backend"_
 
-[Frontend](https://github.com/jimalaros/SEGUNDOPROYECTO)
+[Frontend](https://jimalaros.github.io/frontend/)
 
 [Backend](https://back-store-jimmy-arango.herokuapp.com/products)
 
